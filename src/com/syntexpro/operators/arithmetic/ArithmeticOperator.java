@@ -9,6 +9,8 @@ public class ArithmeticOperator {
         i1 = 1000;
         //System.out.println(i);
 
+        System.out.println();
+
 
 
 
